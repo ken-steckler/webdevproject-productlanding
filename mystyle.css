@@ -27,11 +27,15 @@ a {
 }
 
 .titleitem {
-  padding: 1.55rem
+  padding: 1.55rem;
+}
+
+.titleitem2{
+  padding: 3rem;
 }
 
 .imagedescription {
-  padding-top: 40px;
+  padding-top: 80px;
   font-size: 2.25rem;
   text-align: center;
 }
@@ -51,7 +55,7 @@ a {
 }
 
 .imagesamples {
-  padding-top: 150px;
+  padding-top: 40px;
   display: flex;
   justify-content: space-evenly;
   text-align: center;
@@ -65,4 +69,10 @@ a {
 
 .theline {
   padding: 100px;
+}
+
+.collection {
+  padding-top: 80px;
+  font-size: 2.25rem;
+  text-align: center;
 }
