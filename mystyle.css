@@ -51,18 +51,15 @@ a {
 }
 
 .imagesamples {
-  display: in-inline-block;
-  text-align: center;
-}
-
-.threeimages {
-  display: in-inline-block;
+  padding-top: 150px;
+  display: flex;
+  justify-content: space-evenly;
   text-align: center;
 }
 
 .imagesamples img{
-  height: 25%;
-  width: 25%
+  height: 400px;
+  width: 270px;
 }
 
 
